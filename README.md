@@ -9,7 +9,7 @@
 #### **Prácticas**
 - Prácticas de la 0 a la 5
 #### **Algoritmos**
-- Algunos algoritmos importantes, como algortimos de ordenación de vectores, y algoritmos recursivos
+- Algunos algoritmos importantes, como algoritmos de ordenación de vectores, y algoritmos recursivos
 
 ### **Módulo Objetos**
 #### **Teorías**
